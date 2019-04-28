@@ -11,8 +11,9 @@
   "description": "ThinkPHP development of Library",
   "authors": [
     {
-      "name": "Anyon",
-      "email": "czt@qq.com"
+      "name": "libo",
+      "email": "libo@usa.com",
+      "homepage": "http://www.niubea.com"
     }
   ],
   "require": {
